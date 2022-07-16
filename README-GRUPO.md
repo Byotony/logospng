@@ -18,16 +18,16 @@ _El proyecto está enfocado tener  un sistema que permita publicar y gestionar e
 <img src="https://github.com/Byotony/logospng/blob/main/PNG/DALEMBER.png" width="130" height="130" />
 - Jose Arteaga, (Pepo3009)
 
-<img src="https://github.com/Byotony/logospng/blob/main/PNG/pepo.png" width="130" height="130" />}
+<img src="https://github.com/Byotony/logospng/blob/main/PNG/pepo.png" width="130" height="130" />
 - Benjie González, (benjiegonzalez)
 
 <img src="https://github.com/Byotony/logospng/blob/main/PNG/Benjie.png" width="130" height="130" />
 
 | Plugin | README |
 | ------ | ------ |
-| Antony Palacios | [<img src="https://github.com/Byotony/logospng/blob/main/PNG/Byonetta.png" width="130" height="130" />] |
-| Welinton Guerrero | [https://github.com/Byotony/logospng/blob/main/PNG/Guerrero.png] |
-| Erick Carreño | ["https://github.com/Byotony/logospng/blob/main/PNG/Guerrero.png"] |
-| Dalember Gorozabel | [plugins/googledrive/README.md] |
-| Benjie González | [plugins/onedrive/README.md] |
-| Medium | [plugins/medium/README.md][PlMe] |
+| Antony Palacios | <img src="https://github.com/Byotony/logospng/blob/main/PNG/Byonetta.png" width="100" height="100" /> |
+| Welinton Guerrero | <img src="https://github.com/Byotony/logospng/blob/main/PNG/Guerrero.png" width="100" height="100" /> |
+| Erick Carreño | <img src="https://github.com/Byotony/logospng/blob/main/PNG/Rogger.png" width="100" height="100" /> |
+| Dalember Gorozabel | <img src="https://github.com/Byotony/logospng/blob/main/PNG/DALEMBER.png" width="100" height="100" /> |
+| Benjie González | <img src="https://github.com/Byotony/logospng/blob/main/PNG/Benjie.png" width="100" height="100" /> |
+| Jose Arteaga | <img src="https://github.com/Byotony/logospng/blob/main/PNG/pepo.png" width="100" height="100" /> |
