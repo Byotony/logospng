@@ -33,7 +33,6 @@ _El proyecto está enfocado tener  un sistema que permita publicar y gestionar e
 | Jose Arteaga | <img src="https://github.com/Byotony/logospng/blob/main/PNG/pepo.png" width="100" height="100" /> |
 
 
-| ------ | ------ | ------ | ------ |  ------ | ------ |
 | Byotony | MOCHASPLIT | CarrenoErick19 | DalemberGorozabel | benjiegonzalez | Pepo3009 |
 | <img src="https://github.com/Byotony/logospng/blob/main/PNG/Byonetta.png" width="100" height="100" /> | <img src="https://github.com/Byotony/logospng/blob/main/PNG/Guerrero.png" width="100" height="100" /> | <img src="https://github.com/Byotony/logospng/blob/main/PNG/Rogger.png" width="100" height="100" /> | <img src="https://github.com/Byotony/logospng/blob/main/PNG/DALEMBER.png" width="100" height="100" /> | <img src="https://github.com/Byotony/logospng/blob/main/PNG/Benjie.png" width="100" height="100" /> | <img src="https://github.com/Byotony/logospng/blob/main/PNG/pepo.png" width="100" height="100" /> |
 
