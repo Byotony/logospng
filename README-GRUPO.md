@@ -6,10 +6,10 @@ _El proyecto está enfocado tener  un sistema que permita publicar y gestionar e
 
 - Antony Palacios, (Byotony)
 
-![Byonetta](https://github.com/Byotony/logospng/blob/main/PNG/Byonetta.png)[{width='100px'}{width='100px'}]
+![Byonetta](https://github.com/Byotony/logospng/blob/main/PNG/Byonetta.png){width=100px height=100px}
 - Welinton Guerrero, (MOCHASPLIT)
 
-![Mocha](https://github.com/Byotony/logospng/blob/main/PNG/Guerrero.png)
+![Mocha](https://github.com/Byotony/logospng/blob/main/PNG/Guerrero.png){width=100 height=100}
 - Erick Carreño, (CarrenoErick19)
 
 ![Rogger](https://github.com/Byotony/logospng/blob/main/PNG/Rogger.png)
