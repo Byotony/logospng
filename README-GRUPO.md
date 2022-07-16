@@ -23,7 +23,7 @@ _El proyecto está enfocado tener  un sistema que permita publicar y gestionar e
 
 <img src="https://github.com/Byotony/logospng/blob/main/PNG/Benjie.png" width="130" height="130" />
 
-| Plugin | README |
+| Desarrolladores | Fotos |
 | ------ | ------ |
 | Antony Palacios | <img src="https://github.com/Byotony/logospng/blob/main/PNG/Byonetta.png" width="100" height="100" /> |
 | Welinton Guerrero | <img src="https://github.com/Byotony/logospng/blob/main/PNG/Guerrero.png" width="100" height="100" /> |
