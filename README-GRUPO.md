@@ -2,7 +2,7 @@
 
 _El proyecto está enfocado en contar con un sistema que permita publicar y gestionar el/los parqueados mediante una aplicación_
 
-![Participantes](https://github.com/Byotony/logospng/blob/main/PNG/Participantes.png)
+![Participantes](https://github.com/Byotony/logospng/blob/main/PNG/Participantes%20WHITE.png)
 
 
 
