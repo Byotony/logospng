@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Byotony/logospng/blob/main/PNG/PROYECTO%20PARKING%20BLANCO%20GIT.png" width="100" height="100"/></p>
+<p align="center"><img src="https://github.com/Byotony/logospng/blob/main/PNG/PROYECTO%20PARKING%20BLANCO%20GIT.png"/></p>
 
 ![FastParking](https://github.com/Byotony/logospng/blob/main/PNG/PROYECTO%20PARKING%20BLANCO%20GIT.png)
 
