@@ -23,3 +23,11 @@ _El proyecto está enfocado tener  un sistema que permita publicar y gestionar e
 
 <img src="https://github.com/Byotony/logospng/blob/main/PNG/Benjie.png" width="130" height="130" />
 
+| Plugin | README |
+| ------ | ------ |
+| Antony Palacios | [<img src="https://github.com/Byotony/logospng/blob/main/PNG/Byonetta.png" width="130" height="130" />] |
+| Welinton Guerrero | [https://github.com/Byotony/logospng/blob/main/PNG/Guerrero.png] |
+| Erick Carreño | ["https://github.com/Byotony/logospng/blob/main/PNG/Guerrero.png"] |
+| Dalember Gorozabel | [plugins/googledrive/README.md] |
+| Benjie González | [plugins/onedrive/README.md] |
+| Medium | [plugins/medium/README.md][PlMe] |
