@@ -1,4 +1,4 @@
-# GAST PARKINGS
+# FAST PARKINGS
 
 _El proyecto está enfocado tener  un sistema que permita publicar y gestionar el/los parqueados mediante la aplicación_
 
