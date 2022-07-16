@@ -15,7 +15,7 @@ _El proyecto está enfocado tener  un sistema que permita publicar y gestionar e
 ![Rogger](https://github.com/Byotony/logospng/blob/main/PNG/Rogger.png)
 - Dalember Gorozabel, (DalemberGorozabel)
 
-![Dalember](https://github.com/Byotony/logospng/blob/main/PNG/Rogger.png)
+![Dalember](https://github.com/Byotony/logospng/blob/main/PNG/DALEMBER.png)
 - Jose Arteaga, (Pepo3009)
 
 ![Pepo](https://github.com/Byotony/logospng/blob/main/PNG/pepo.png)
