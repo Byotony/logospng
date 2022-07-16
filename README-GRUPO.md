@@ -6,22 +6,20 @@ _El proyecto está enfocado tener  un sistema que permita publicar y gestionar e
 
 - Antony Palacios, (Byotony)
 
-<img src="https://github.com/Byotony/logospng/blob/main/PNG/Byonetta.png" width="100" height="100" />
-
-![Byonetta](https://github.com/Byotony/logospng/blob/main/PNG/Byonetta.png)
+<img src="https://github.com/Byotony/logospng/blob/main/PNG/Byonetta.png" width="130" height="130" />
 - Welinton Guerrero, (MOCHASPLIT)
 
-![Mocha](https://github.com/Byotony/logospng/blob/main/PNG/Guerrero.png)
+<img src="https://github.com/Byotony/logospng/blob/main/PNG/Guerrero.png" width="130" height="130" />
 - Erick Carreño, (CarrenoErick19)
 
-![Rogger](https://github.com/Byotony/logospng/blob/main/PNG/Rogger.png)
+<img src="https://github.com/Byotony/logospng/blob/main/PNG/Rogger.png" width="130" height="130" />
 - Dalember Gorozabel, (DalemberGorozabel)
 
-![Dalember](https://github.com/Byotony/logospng/blob/main/PNG/DALEMBER.png)
+<img src="https://github.com/Byotony/logospng/blob/main/PNG/DALEMBER.png" width="130" height="130" />
 - Jose Arteaga, (Pepo3009)
 
-![Pepo](https://github.com/Byotony/logospng/blob/main/PNG/pepo.png)
+<img src="https://github.com/Byotony/logospng/blob/main/PNG/pepo.png" width="130" height="130" />}
 - Benjie González, (benjiegonzalez)
 
-![Benjie](https://github.com/Byotony/logospng/blob/main/PNG/Benjie.png)
+<img src="https://github.com/Byotony/logospng/blob/main/PNG/Benjie.png" width="130" height="130" />
 
