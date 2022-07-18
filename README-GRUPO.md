@@ -13,4 +13,4 @@ _El proyecto está enfocado en contar con un sistema que permita publicar y gest
 
 ## NOTA :clipboard:.
 
-El servidor fue reestructurado a JavaScript [`(.js)`](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript) debido a que se cuenta a nivel colecctivo con un mayor dominio del lenguaje de programación, adiccional a ello se agregaron más funciones al proyecto. 
+El servidor fue reestructurado a JavaScript [`.js`](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript) debido a que se cuenta a nivel colecctivo con un mayor dominio del lenguaje de programación, adiccional a ello se agregaron más funciones al proyecto. 
