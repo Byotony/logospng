@@ -9,3 +9,8 @@ _El proyecto está enfocado en contar con un sistema que permita publicar y gest
 | Antony Palacios, (Byotony) | Welinton Guerrero, (MOCHASPLIT) | Erick Carreño, (CarrenoErick19) | Dalember Gorozabel, (DalemberGorozabel) | Benjie González, (benjiegonzalez) | Jose Arteaga, (Pepo3009) |
 | ------ | ------ | ------ | ------ |  ------ | ------ |
 |<p align="center"><img src="https://github.com/Byotony/logospng/blob/main/PNG/Byonetta.png" text-align="center" width="100" height="100"/></p>|<p align="center"><img src="https://github.com/Byotony/logospng/blob/main/PNG/Guerrero.png" align="center" width="100" height="100"/></p>|<p align="center"><img src="https://github.com/Byotony/logospng/blob/main/PNG/Rogger.png" align="center" width="100" height="100"/></p>|<p align="center"><img src="https://github.com/Byotony/logospng/blob/main/PNG/DALEMBER.png" align="center" width="100" height="100"/></p>|<p align="center"><img src="https://github.com/Byotony/logospng/blob/main/PNG/Benjie.png" align="center" width="100" height="100"/></p>|<p align="center"><img src="https://github.com/Byotony/logospng/blob/main/PNG/pepo.png" align="center" width="100" height="100"/></p>|
+
+
+## NOTA :clipboard:.
+
+El servidor fue reestructurado a JavaScript [`(.js)`](https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript) debido a que se cuenta a nivel colecctivo con un mayor dominio del lenguaje de programación, adiccional a ello se agregaron más funciones al proyecto. 
